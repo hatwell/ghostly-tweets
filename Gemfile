@@ -1,3 +1,3 @@
-ruby '2.1.2'
+ruby '2.3.3'
 source "https://rubygems.org"
 gem 'twitter'
